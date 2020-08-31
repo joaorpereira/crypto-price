@@ -28,7 +28,8 @@ export default class App extends Component {
   }
 
   inputText = (event) =>{
-    this.setState({text : event.target.value})
+    const inputText = event.target.value.toLowerCase()
+    this.setState({text : inputText})
   }
 
   render() {
