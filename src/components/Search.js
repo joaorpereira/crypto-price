@@ -7,6 +7,10 @@ const Container = styled.div`
     justify-content:center;
     width:100%;
     padding:15px;
+
+    @media (max-width: 800px){
+        padding:10px;
+    }
 `;
 
 const Input = styled.input`
@@ -22,6 +26,9 @@ const Input = styled.input`
             background:#f0ece2;
             color: #272121;
         }
+    @media (max-width: 800px){
+        width:90%;
+    }
 `;
 
 

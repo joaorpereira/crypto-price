@@ -17,13 +17,18 @@ const Container = styled.div`
     .green{
         color:green;
     }
+
+    @media (max-width: 800px){
+        padding: 5px 10px;
+        width: 100%;
+    }
 `;
 
 const Coin = styled.div`
     display: flex;
     align-items: center;
     padding-right:24px;
-    min-width: 300px;
+    width: 300px;
 
     h1{
         font-size: 16px;
@@ -39,6 +44,21 @@ const Coin = styled.div`
         height: 30px;
         margin-right: 10px;
     }
+
+    @media (max-width: 800px){
+        padding-bottom: 0px 5px 0px 5px;
+        width: 140px;
+
+        h1{
+        font-size: 14px;      
+        }
+
+        p{
+            display:none;
+        }
+    }
+
+
 `;
 
 const Data = styled.div`
@@ -57,6 +77,23 @@ const Data = styled.div`
     }
     .volume{
         width: 155px;
+    }
+
+    @media (max-width: 800px){
+        margin: 0px 15px 0px 15px;
+
+        .market_cap{
+            display: none;
+        }
+        .price{
+            width: 50px;
+        }
+        .price_perc{
+            width: 50px;
+        }
+        .volume{
+            display:none;
+        }
     }
 `;
 
