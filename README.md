@@ -18,7 +18,7 @@
 
 ## Reference Material
 
-- <a href="https://www.youtube.com/watch?v=9ohK7CapmIs&t=1971s" target="_blank">Brian Design</a>
+- <a href="https://www.youtube.com/watch?v=9ohK7CapmIs&t=1971s" target="_blank">Brian Design - Tutorial</a>
 - <a href="https://www.youtube.com/watch?v=YaioUnMw0mo" target="_blank">CoinGecko API</a>
 
 ## License
