@@ -2,7 +2,7 @@
 
 > This project was made using **React**, **HTML**, **CSS** and **JavaScript-Vanilla**. Also, I used **styled-components** to do some of my CSS style, I used axios to get Coingecko API. The objective was to understand and improve my skills using an API.
 
-![](crypto-price.gif)
+![](crypto-coin.gif)
 
 ## How to Run this Project
 
