@@ -2,11 +2,14 @@
 
 > This project was made using **React**, **HTML**, **CSS** and **JavaScript-Vanilla**. Also, I used **styled-components** to do some of my CSS style, I used axios to get Coingecko API. The objective was to understand and improve my skills using an API.
 
+### Site
+The website has been hosted at netlify: https://cripto-current-api.netlify.app/
+
 ![](crypto-coin.gif)
 
 ## How to Run this Project
 
-- git clone "https://github.com/joaorpereira/crypto-price.git"
+- git clone https://github.com/joaorpereira/crypto-price.git
 - npm install
 - npm install styled-components
 - npm install axios
